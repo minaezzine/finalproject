@@ -1,0 +1,29 @@
+
+body{
+	height: 450PX;
+	background: url('https://i.pinimg.com/originals/c2/4f/cb/c24fcbb6840dba90abb4f8c6689c9840.gif');
+
+}
+.flamant{
+    text-align: center;
+   margin-right: 50px;
+   margin-left: 50px;
+   margin-top:200px;
+   margin-bottom: 50px;
+  
+
+}
+h1{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+ font-size: 90px;
+  color:palevioletred;
+ margin-top: 0px;
+}
+h3{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+ font-size: 30px;
+  color:rgb(255, 198, 217);
+
+}
